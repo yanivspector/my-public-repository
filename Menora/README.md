@@ -2,10 +2,15 @@ System Reader Libraries:
 
 
 a) -Spring boot and Mvc 2.5.3
+
    -jaxb-api for XML parsing : 2.3.0
+   
    -Gson: 2.8.6
+   
 b)  -Use Maven 3.6.3
+
     -Java 13
+    
     -Memory DB = H2   
 
 Staring the Application Mode:
