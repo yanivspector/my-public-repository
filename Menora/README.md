@@ -1,6 +1,9 @@
 a)Use Maven 3.6.3
+
 b)Java 13
+
 c)Memory DB = H2
+
 d) -Spring boot and Mvc 2.5.3
    -jaxb-api for XML parsing : 2.3.0
    -Gson: 2.8.6
