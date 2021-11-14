@@ -43,3 +43,6 @@ cronTime=0 0 * * * *
 
 
 #Regarding the path of the folder where is located the Request.xml file just set it on the first param of the file.properties 'request.folder.path' as shown above
+
+Console Log (log shows on InFo lines , if you want to see log on debug mode then go to application.properties then change the record below to 'debug'
+logging.level.org.springframework = info
