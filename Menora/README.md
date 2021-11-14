@@ -1,9 +1,9 @@
-Use Maven 3.6.3
-Java 13
-Memory DB = H2
-Spring boot and Mvc 2.5.3
-jaxb-api for XML parsing : 2.3.0
-Gson: 2.8.6
+#Use Maven 3.6.3
+#Java 13
+#Memory DB = H2
+#Spring boot and Mvc 2.5.3
+#jaxb-api for XML parsing : 2.3.0
+#Gson: 2.8.6
 
 Staring the Application Mode:
 1) From Jar - Go to project path then create your Jar file excuting command : mvn clean -U install
