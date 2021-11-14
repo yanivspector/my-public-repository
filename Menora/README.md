@@ -15,9 +15,9 @@ b)  -Use Maven 3.6.3
 
 Staring the Application Mode:
 1) From Jar - Go to project path then create your Jar file excuting command : mvn clean -U install
-You can download the  jar located on the root of the repository 'event.reader.service-0.0.1-SNAPSHOT.jar'
+This will create jar file such as :  'event.reader.service-0.0.1-SNAPSHOT.jar'
 Then execute java -jar event.reader.service-0.0.1-SNAPSHOT.jar
-This will run the App on port 8081
+
 2) From Intellij (IDE) - open the maven project 
 Go to ....\workspace\Menora\src\main\java\com\menora\system\reader folder then run 'EventReaderSystemApplication' class
 This will run the App on port 8080
@@ -27,6 +27,9 @@ click : http://localhost:8080/h2-console/ ( You can see the tables)
 
 Get all products by InsuredId groupedBy CompanyName
 Clik : http://localhost:8080/showAllProductsByInsuredId
+
+Read Request.xml file content but on Json Format :
+click: http://localhost:8080/showDB
 
 
 Setup of Scheduler Time & Request's folder path 
