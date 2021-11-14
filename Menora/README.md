@@ -27,6 +27,9 @@ See on second parameter 'CronTime' , here you can setup the cron time , on this 
 If you want to check it change to the trigger to every 40 seconds use this expression: cronTime=*/40 * * * * *
 request.folder.path=C:\\Users\\Yaniv\\Download
 cronTime=0 0 * * * *
+
+<img width="363" alt="cron" src="https://user-images.githubusercontent.com/94252702/141673988-ebbdd475-7e67-44a3-93e1-716cb70e340a.PNG">
+
  ┌───────────── second (0-59)
  │ ┌───────────── minute (0 - 59)
  │ │ ┌───────────── hour (0 - 23)
