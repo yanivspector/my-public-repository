@@ -22,7 +22,7 @@ public class DaoServiceImpl implements DaoService {
   private static final Logger log = LoggerFactory.getLogger(DaoServiceImpl.class);
 
   @Autowired
-  BeanFactory beanFactory;
+  BeanFactory beanFactory;  //test
 
   ProductRepository productRepository;
   EventRepository eventRepository;
