@@ -31,4 +31,4 @@ cronTime=0 0 * * * *
 <img width="363" alt="cron" src="https://user-images.githubusercontent.com/94252702/141673988-ebbdd475-7e67-44a3-93e1-716cb70e340a.PNG">
 
 
-# Regarding the path of the folder where is located the Request.xml file just set it on the first param of the file.properties 'request.folder.path' as shown above
+#Regarding the path of the folder where is located the Request.xml file just set it on the first param of the file.properties 'request.folder.path' as shown above
