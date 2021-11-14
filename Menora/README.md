@@ -1,13 +1,12 @@
-System Reader Libraries
-a)Use Maven 3.6.3
+System Reader Libraries:
 
-b)Java 13
 
-c)Memory DB = H2
-
-d) -Spring boot and Mvc 2.5.3
+a) -Spring boot and Mvc 2.5.3
    -jaxb-api for XML parsing : 2.3.0
    -Gson: 2.8.6
+b)  -Use Maven 3.6.3
+    -Java 13
+    -Memory DB = H2   
 
 Staring the Application Mode:
 1) From Jar - Go to project path then create your Jar file excuting command : mvn clean -U install
